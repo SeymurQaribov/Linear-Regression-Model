@@ -7,10 +7,17 @@ Dataset
 The insurance dataset used in this project contains information about different individuals and their corresponding insurance charges. It includes the following columns:
 
 Age: The age of the insured person.
+
 Sex: The gender of the insured person (male/female).
+
 BMI: Body Mass Index, a measure of body fat based on height and weight.
+
 Children: The number of children/dependents covered by the insurance.
+
 Smoker: A binary value indicating whether the insured is a smoker (yes/no).
+
 Region: The region of the United States where the insured resides.
+
 Charges: The insurance charges billed to the insured.
+
 The dataset is provided in a CSV file and will be used for training and evaluating the Linear Regression model.
